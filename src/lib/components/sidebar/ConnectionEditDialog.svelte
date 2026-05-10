@@ -85,6 +85,7 @@
         username: 'postgres',
         password: '',
         ssl_mode: 'prefer',
+        options: {},
       };
     }
     connectionUrl = '';
